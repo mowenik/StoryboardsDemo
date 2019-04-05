@@ -12,6 +12,7 @@
 		D521669822576AC200CC10EA /* APIDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D521669722576AC200CC10EA /* APIDataManager.swift */; };
 		D521669A22576B4D00CC10EA /* DatabaseDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D521669922576B4D00CC10EA /* DatabaseDataManager.swift */; };
 		D521669C22576BBA00CC10EA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = D521669B22576BBA00CC10EA /* User.swift */; };
+		D52166A2225799FF00CC10EA /* ColorsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52166A1225799FF00CC10EA /* ColorsTableViewCell.swift */; };
 		D5C4FC6F22575724005E6110 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5C4FC6E22575724005E6110 /* AppDelegate.swift */; };
 		D5C4FC7122575724005E6110 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5C4FC7022575724005E6110 /* ViewController.swift */; };
 		D5C4FC7422575724005E6110 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5C4FC7222575724005E6110 /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 		D521669722576AC200CC10EA /* APIDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIDataManager.swift; sourceTree = "<group>"; };
 		D521669922576B4D00CC10EA /* DatabaseDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseDataManager.swift; sourceTree = "<group>"; };
 		D521669B22576BBA00CC10EA /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		D52166A1225799FF00CC10EA /* ColorsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableViewCell.swift; sourceTree = "<group>"; };
 		D5C4FC6B22575724005E6110 /* Storyboards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Storyboards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5C4FC6E22575724005E6110 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5C4FC7022575724005E6110 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				D521669D22576D2C00CC10EA /* Managers */,
 				D5C4FC6E22575724005E6110 /* AppDelegate.swift */,
 				D5C4FC7022575724005E6110 /* ViewController.swift */,
+				D52166A1225799FF00CC10EA /* ColorsTableViewCell.swift */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5C4FC7122575724005E6110 /* ViewController.swift in Sources */,
+				D52166A2225799FF00CC10EA /* ColorsTableViewCell.swift in Sources */,
 				D521669622576A6600CC10EA /* UserProtocol.swift in Sources */,
 				D521669C22576BBA00CC10EA /* User.swift in Sources */,
 				D521669822576AC200CC10EA /* APIDataManager.swift in Sources */,
